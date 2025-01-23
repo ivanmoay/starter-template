@@ -1,5 +1,6 @@
 <script setup>
 import { Head, Link } from '@inertiajs/vue3';
+import { Button } from '@/Components/ui/button'
 
 defineProps({
     canLogin: {
